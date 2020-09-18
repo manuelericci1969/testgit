@@ -1,0 +1,89 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fc910902-b01e-4693-a46e-a94a4819fe13\" name=\"Default Changelist\" comment=\"Partenza 3\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"M. Ricci\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1hgoSMr2rIaPq6ZRyRAN9cfxXHY\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fc910902-b01e-4693-a46e-a94a4819fe13\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1600442095268</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1600442095268</updated>\r\n      <workItem from=\"1600442096418\" duration=\"991000\" />\r\n      <workItem from=\"1600443102029\" duration=\"13000\" />\r\n      <workItem from=\"1600443397334\" duration=\"1017000\" />\r\n      <workItem from=\"1600444639703\" duration=\"17000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Partenza\">\r\n      <created>1600442250046</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600442250046</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Partenza\">\r\n      <created>1600442578272</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600442578272</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Partenza 2\">\r\n      <created>1600442794292</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600442794292</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Partenza 2\">\r\n      <created>1600442913495</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600442913495</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Partenza 2\">\r\n      <created>1600443594390</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600443594390</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Partenza 2\">\r\n      <created>1600443727785</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600443727785</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Cambio test\">\r\n      <created>1600444096915</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600444096915</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"Partenza\" />\r\n    <MESSAGE value=\"Partenza 2\" />\r\n    <MESSAGE value=\"Cambio test\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Cambio test\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"452\" y=\"96\" key=\"#Deployment\" timestamp=\"1600442661445\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"452\" y=\"96\" key=\"#Deployment/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600442661445\" />\r\n    <state x=\"476\" y=\"0\" width=\"1180\" height=\"1040\" key=\"CommitChangelistDialog2\" timestamp=\"1600443984698\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"476\" y=\"0\" width=\"1180\" height=\"1040\" key=\"CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600443984698\" />\r\n    <state x=\"687\" y=\"200\" key=\"FileChooserDialogImpl\" timestamp=\"1600442149125\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"687\" y=\"200\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600442149125\" />\r\n    <state x=\"751\" y=\"422\" key=\"NewPhpFileDialog\" timestamp=\"1600442207925\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"751\" y=\"422\" key=\"NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600442207925\" />\r\n    <state x=\"359\" y=\"78\" key=\"SettingsEditor\" timestamp=\"1600444654653\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"359\" y=\"78\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600444654653\" />\r\n    <state x=\"452\" y=\"165\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1600444212116\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"452\" y=\"165\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600444212116\" />\r\n    <state x=\"736\" y=\"415\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1600442569701\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"736\" y=\"415\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600442569701\" />\r\n    <state x=\"714\" y=\"399\" key=\"git4idea.remote.GitConfigureRemotesDialog\" timestamp=\"1600444258582\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"714\" y=\"399\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1600444258582\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 7b9463709048f424a2e5c5d4e1139e4c4479e214)
++++ .idea/workspace.xml	(date 1600445141415)
+@@ -16,10 +16,16 @@
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="ChangesViewManager">
++    <option name="groupingKeys">
++      <option value="directory" />
++    </option>
++  </component>
+   <component name="ComposerSettings">
+     <execution />
+   </component>
+   <component name="Git.Settings">
++    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+     <option name="PREVIOUS_COMMIT_AUTHORS">
+       <list>
+         <option value="M. Ricci" />
+@@ -39,7 +45,7 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
++    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -53,7 +59,7 @@
+       <workItem from="1600442096418" duration="991000" />
+       <workItem from="1600443102029" duration="13000" />
+       <workItem from="1600443397334" duration="1017000" />
+-      <workItem from="1600444639703" duration="17000" />
++      <workItem from="1600444639703" duration="498000" />
+     </task>
+     <task id="LOCAL-00001" summary="Partenza">
+       <created>1600442250046</created>
+@@ -104,7 +110,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1600444096915</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="Partenza 3">
++      <created>1600444842519</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1600444842519</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -129,7 +142,8 @@
+     <MESSAGE value="Partenza" />
+     <MESSAGE value="Partenza 2" />
+     <MESSAGE value="Cambio test" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Cambio test" />
++    <MESSAGE value="Partenza 3" />
++    <option name="LAST_COMMIT_MESSAGE" value="Partenza 3" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="452" y="96" key="#Deployment" timestamp="1600442661445">
+@@ -148,14 +162,14 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="751" y="422" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600442207925" />
+-    <state x="359" y="78" key="SettingsEditor" timestamp="1600444654653">
++    <state x="359" y="78" key="SettingsEditor" timestamp="1600445140801">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="359" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600444654653" />
+-    <state x="452" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600444212116">
++    <state x="359" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600445140801" />
++    <state x="452" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600445014249">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="452" y="165" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600444212116" />
++    <state x="452" y="165" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600445014249" />
+     <state x="736" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600442569701">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
